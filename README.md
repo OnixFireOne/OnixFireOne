@@ -1,4 +1,4 @@
-# Nik Onix
+# Onix
 
 **Fullstack & AI engineer.** I design the architecture and detailed specs, then ship fast with coding agents and LLM tooling. Solo founder of [inp.one](https://inp.one) — a crypto market analytics service running in production since 2017.
 
